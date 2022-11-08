@@ -1,9 +1,9 @@
 #wrapper {
     position: absolute;
-    left: 20%;
+    left: 15%;
     top: 10%;
     width: 1000px;
-    height: 00px;
+    height: 600px;
     border: 1px solid rgb(0, 204, 255);
 }
 #startTime {
@@ -76,6 +76,7 @@ input {
 
 h1 {
     text-align: center;
+    background-color: rgb(0, 204, 255);
 }
 
 li {
